@@ -10,6 +10,6 @@ function updateDriverWithKeyAndValue(driver, key, value){
 }
 
 function destructivelyUpdateDriverWithKeyAndValue(driver, key, value){
-  obj[name,address] = value;
+  obj[driver] = value;
   return 'Sam', '12 Broadway';
 }
