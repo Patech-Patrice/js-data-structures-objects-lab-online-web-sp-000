@@ -20,4 +20,6 @@ function deleteFromDriverByKey(driver, key){
   return clone;
 }
 
-function destructively
+function destructivelyDeleteFromDriverByKey(){
+  
+}
